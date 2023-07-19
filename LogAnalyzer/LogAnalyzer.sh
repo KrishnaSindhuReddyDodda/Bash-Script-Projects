@@ -1,5 +1,3 @@
-Log Analyzer: Develop a script that parses log files and extracts relevant information, such as error messages or specific patterns, and presents the findings in a summarized or organized format.
-
 #!/bin/bash
 
 # Function to display script usage
